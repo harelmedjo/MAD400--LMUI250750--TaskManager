@@ -1,4 +1,4 @@
-# Periane Premium
+# dang medjo
 
 Premium task management with a modern glassmorphism UI and refined dark theme.
 
